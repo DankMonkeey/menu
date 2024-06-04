@@ -1,0 +1,55 @@
+h1 {
+  font-family: "Montserat";
+  text-align: center;
+}
+.s1 {
+  background: url("imgs/cover.png") no-repeat;
+  background-size: contain; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+.menu1 {
+  background-image: url("imgs/cover.png");
+  background-size: cover; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+.menu2 {
+  background-image: url("imgs/page1.png");
+  background-size: cover; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+.menu3 {
+  background-image: url("imgs/page2.png");
+  background-size: cover; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+.menu4 {
+  background-image: url("imgs/page3.png");
+  background-size: cover; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+.menu5 {
+  background-image: url("imgs/cover1.png");
+  background-size: cover; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+.s3 {
+  background: url("imgs/page2.png") no-repeat;
+  background-size: contain; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+.s4 {
+  background: url("imgs/cover1.png") no-repeat;
+  background-size: cover; /* Adjust image size */
+  background-position: center center; /* Center the background image */
+}
+span {
+  background-color: rgb(38, 48, 38) !important;
+}
+#fp-nav.fp-right {
+  right: -6px !important;
+}
+.fp-slidesNav.fp-bottom {
+    bottom: 17px;
+    display: flex;
+    justify-content: center;
+}
